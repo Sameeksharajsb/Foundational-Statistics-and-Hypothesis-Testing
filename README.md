@@ -7,7 +7,7 @@ This repo is a hub where I experiment with the fundamental elements of inferenti
 
 ## Data
 
-1. Salespeople dataset: "http:://peopleanalytics-regression-book.org/data/salespeople.csv"
+**1.**  Salespeople dataset: "http:://peopleanalytics-regression-book.org/data/salespeople.csv"
 
 ## Hypothesis Tests
 
