@@ -15,7 +15,7 @@ This repo is a hub where I experiment with the fundamental elements of inferenti
 
 **2.**  Correlation test for non-zero correlation coefficients
 
-**3.**  Chi-square test of difference in frequency distribution between different categories in a data se
+**3.**  Chi-square test of difference in frequency distribution between different categories in a data set
 
 ## References
 
